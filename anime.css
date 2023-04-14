@@ -1,0 +1,60 @@
+lement.style {
+}
+@media (max-width: 840px)
+gif.scss:233
+.GifPage .main-container {
+    width: 100%;
+}
+
+gif.scss:109
+.GifPage .main-container {
+    display: inline-block;
+    width: 75%;
+}
+
+app.scss:6
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+bootstrap.min.css:5
+*, :after, :before {
+    box-sizing: inherit;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+Inherited from body
+app.scss:27
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@supports (font-variation-settings:normal)
+_vars.scss:95
+body, html {
+    font-family: Inter var,helvetica,arial,sans-serif;
+}
+
+_vars.scss:93
+body, html {
+    font-family: Inter,helvetica,arial,sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+bootstrap.min.css:5
+body {
+    background-color: #fff;
+    color: #373a3c;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
